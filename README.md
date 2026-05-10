@@ -180,12 +180,14 @@ void assert_failed(uint8_t *file, uint32_t line) {}
 
 ## Off:
 
-<img width="1163" height="1599" alt="OFF" src="https://github.com/user-attachments/assets/b9d7a9cf-2b23-4c20-abd5-f975d5abed77" />
+<img width="480" height="651" alt="image" src="https://github.com/user-attachments/assets/557a7bfc-4d3d-4f78-b2b1-d57227cb208a" />
+
+
 
 
 ##  On:
+<img width="494" height="673" alt="image 2026-05-02" src="https://github.com/user-attachments/assets/98a3efc0-2980-4c12-8bbd-a5dbd66c8b23" />
 
-<img width="1242" height="1594" alt="ON" src="https://github.com/user-attachments/assets/0f008540-9ac6-436d-8c52-a5e6b1424f0c" />
 
 
 
